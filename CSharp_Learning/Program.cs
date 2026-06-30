@@ -11,7 +11,8 @@ namespace CSharp_Learning
             //DataTypes.Run();
             //Typecasting.Run();
             //Operators.Run();
-            Conditionals.Run();
+            //Conditionals.Run();
+            Loops.Run();
         }
     }
 }
