@@ -10,8 +10,8 @@ namespace CSharp_Learning
             //Variables.Run();
             //DataTypes.Run();
             //Typecasting.Run();
-            Operators.Run();
-
+            //Operators.Run();
+            Conditionals.Run();
         }
     }
 }
