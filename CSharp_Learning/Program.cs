@@ -1,4 +1,5 @@
 ﻿using CSharp_Learning.Phase0_Fundamentals;
+using CSharp_Learning.Phase1_Methods;
 
 namespace CSharp_Learning
 {
@@ -12,7 +13,8 @@ namespace CSharp_Learning
             //Typecasting.Run();
             //Operators.Run();
             //Conditionals.Run();
-            Loops.Run();
+            //Loops.Run();
+            Methods.Run();
         }
     }
 }
