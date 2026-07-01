@@ -14,7 +14,8 @@ namespace CSharp_Learning
             //Operators.Run();
             //Conditionals.Run();
             //Loops.Run();
-            Methods.Run();
+            //Methods.Run();
+            ReturnTypes.Run();
         }
     }
 }
