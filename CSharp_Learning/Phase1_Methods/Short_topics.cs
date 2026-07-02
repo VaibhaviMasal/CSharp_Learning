@@ -74,19 +74,19 @@ namespace CSharp_Learning.Phase1_Methods
     }
 }
 
-/* 
- --------------------------------------------------
-| Feature     | Purpose                           |
-| ----------- | --------------------------------- |
-| Parameter   | Variable in method definition     |
-| Argument    | Value passed to method            |
-| Return      | Sends value back                  |
-| Overloading | Same method, different parameters |
-| Optional    | Default value                     |
-| Named       | Pass by parameter name            |
-| ref         | Pass original variable            |
-| out         | Return value through parameter    |
-| params      | Variable number of arguments      |
-| Recursion   | Method calling itself             |
----------------------------------------------------
- * /
+
+// --------------------------------------------------
+//| Feature     | Purpose                           |
+//| ----------- | --------------------------------- |
+//| Parameter   | Variable in method definition     |
+//| Argument    | Value passed to method            |
+//| Return      | Sends value back                  |
+//| Overloading | Same method, different parameters |
+//| Optional    | Default value                     |
+//| Named       | Pass by parameter name            |
+//| ref         | Pass original variable            |
+//| out         | Return value through parameter    |
+//| params      | Variable number of arguments      |
+//| Recursion   | Method calling itself             |
+//---------------------------------------------------
+ 
