@@ -1,12 +1,10 @@
 ﻿using System;
 
-
-
 namespace CSharp_Learning.Phase2_Object_Oriented_Programming
 {
 
-   //Student Class
-   internal class Student
+    //Student Class
+    internal class Student
     {
         public string name;
         public int age;
@@ -45,5 +43,5 @@ namespace CSharp_Learning.Phase2_Object_Oriented_Programming
 
         }
     }
-    }
+}
 
