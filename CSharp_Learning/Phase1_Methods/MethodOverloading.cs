@@ -15,6 +15,9 @@ namespace CSharp_Learning.Phase1_Methods
             Console.WriteLine($"Sum1 : {sum1}");
             Console.WriteLine($"Sum2 : {sum2}");
             Console.WriteLine($"Sum3 : {sum3}");
+
+
+        
         }
 
         public static int Add(int a, int b)
@@ -34,4 +37,8 @@ namespace CSharp_Learning.Phase1_Methods
     }
 
     //Method Overloading -  Methos overloading is the process of creating multiple methods witht the same name but different parameters 
-}
+
+    // Normal Parameter , ref
+
+   
+    }

@@ -16,7 +16,9 @@ namespace CSharp_Learning
             //Loops.Run();
             //Methods.Run();
             //ReturnTypes.Run();
-            MethodOverloading.Run();
+            //MethodOverloading.Run();
+            Short_topics.Run();
+
         }
     }
 }
