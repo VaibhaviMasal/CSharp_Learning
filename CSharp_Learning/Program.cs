@@ -21,7 +21,8 @@ namespace CSharp_Learning
             //Short_topics.Run();
             //ClassesObjects.Run();
             //Constructors.Run();
-            ThisKeyword.Run();
+            //ThisKeyword.Run();
+            StaticMembers.Run();
         }
     }
 }
