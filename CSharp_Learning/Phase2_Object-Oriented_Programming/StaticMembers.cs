@@ -1,6 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
+
 
 namespace CSharp_Learning.Phase2_Object_Oriented_Programming
 {
@@ -10,10 +9,15 @@ namespace CSharp_Learning.Phase2_Object_Oriented_Programming
     // Only one copy exists.
 
     // Class wheere only the variables are declared.
+
+    // Represents a bank account
+
+
+
     internal class BankAccount
     {
-        public string accountHolder;
-        public static string bankName = "State Bank Of India";
+        public string AccountHolder;
+        public static string BankName = "State Bank Of India";
 
 
     }
@@ -26,13 +30,13 @@ namespace CSharp_Learning.Phase2_Object_Oriented_Programming
             BankAccount account1 = new BankAccount();
             BankAccount account2 = new BankAccount();
 
-            account1.accountHolder = "Vaibhavi";
-            account2.accountHolder = "Rahul";
+            account1.AccountHolder = "Vaibhavi";
+            account2.AccountHolder = "Rahul";
 
-            Console.WriteLine(account1.accountHolder);
-            Console.WriteLine(account2.accountHolder);
+            Console.WriteLine(account1.AccountHolder);
+            Console.WriteLine(account2.AccountHolder);
 
-            Console.WriteLine(BankAccount.bankName);
+            Console.WriteLine(BankAccount.BankName);
 
         }
     }
