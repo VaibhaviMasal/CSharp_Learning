@@ -1,6 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
+
 
 namespace CSharp_Learning.Phase2_Object_Oriented_Programming
 {
@@ -21,9 +20,13 @@ namespace CSharp_Learning.Phase2_Object_Oriented_Programming
             Console.WriteLine(person.Name);
             Console.WriteLine(person.College);
 
-            // Cannot access Age & City due to its protection level i.e. access modifiers
+            // Error: Age and City cannot be accessed because of their access modifiers.           
+            
+            // private -> Accessible only inside Person class.
+            // protected -> Accessible only inside Person and its derived classes.
+
             //Console.WriteLine(person.Age);
-            //Console.WriteLine(person.City);
+           //Console.WriteLine(person.City);
         }
     }
 }
