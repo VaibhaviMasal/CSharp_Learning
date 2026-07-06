@@ -1,6 +1,7 @@
 ﻿//using CSharp_Learning.Phase0_Fundamentals;
 //using CSharp_Learning.Phase1_Methods;
 using CSharp_Learning.Phase2_Object_Oriented_Programming;
+using static CSharp_Learning.Phase2_Object_Oriented_Programming.BankAccounts;
 
 namespace CSharp_Learning
 {
@@ -23,7 +24,9 @@ namespace CSharp_Learning
             //Constructors.Run();
             //ThisKeyword.Run();
             //StaticMembers.Run();
-            AccessModifiers.Run();
+            //AccessModifiers.Run();
+            //Encapsulation.Run();
+            Inheritance.Run();
         }
     }
 }
