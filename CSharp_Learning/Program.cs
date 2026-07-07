@@ -27,7 +27,8 @@ namespace CSharp_Learning
             //AccessModifiers.Run();
             //Encapsulation.Run();
             //Inheritance.Run();
-            Polymorphism.Run();
+            //Polymorphism.Run();
+            Abstraction.Run();
         }
     }
 }
