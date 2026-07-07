@@ -28,7 +28,8 @@ namespace CSharp_Learning
             //Encapsulation.Run();
             //Inheritance.Run();
             //Polymorphism.Run();
-            Abstraction.Run();
+            //Abstraction.Run();
+            Interfaces.Run();
         }
     }
 }
